@@ -1,2 +1,2 @@
-# Hello-World
+# Hello World
 by the book
